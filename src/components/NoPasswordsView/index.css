@@ -1,0 +1,10 @@
+.no-passwords-view-container {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.no-passwords-view-container img {
+  width: 250px;
+}
